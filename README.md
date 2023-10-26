@@ -8,6 +8,4 @@ It's projected that the global diabetic population will reach 642 million by 204
 Objective: 
 Our motivation is to utilize risk factors for diabetes to build a predictive model that can quantify if considering risk factors is beneficial for more accurate diabetes diagnosis. Specifically, we will incorporate the risk factors of high blood pressure and high cholesterol into the learning of our model. We hope to explore if adding a particular one of these risk factors, both, or none contribute to a more accurate diabetes diagnosis.
 
-Dataset: 
-
-NHANES 2015 - 2016 and 2017 - 2018
+Dataset: NHANES 2015 - 2016 and 2017 - 2018
