@@ -2,6 +2,8 @@
 
 Group Members: Youxia Zhao, Peter Tran
 
+Background: In the modern era, increasing pressures have led to a growing prevalence of sleep-related issues such as reduced sleep quality, disruptions in sleep patterns, and diagnosable sleep disorders. These challenges are particularly prevalent among, resulting in a significant impact on their overall quality of life and health. 
+
 Objective: Our project aims to develop a machine learning model that utilizes individual lifestyle information and health condition data to predict the risk of sleep disorders. Our primary objectives encompass: 1) Identify potential risk factors for sleep disorders, enabling individuals to take preventative measures. 2) Provide healthcare professionals with a tool to identify individuals at risk of sleep disorders at an earlier stage.
  
 Dataset: We will utilize data extracted from the National Health and Nutrition Examination Survey (NHANES) for the years 2015-2016 and 2017-2018[1]. The dataset will undergo rigorous data preprocessing, not limited to handling of missing values and employing kernel density estimation to improve the learning potential of the model. After that, we anticipate working with a dataset containing approximately 6000 patient records. The chosen input features include 1) dietary habits, 2) physical activity, 3) smoking status, 4) alcohol consumption, 5) BMI (Body Mass Index), 6) chronic diseases. To facilitate analysis, categorical features will be transformed into numerical values, and data standardization will be performed. The class labels will represent a binary classification of patients: 0 - Non-cases and 1 - Cases.
