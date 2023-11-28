@@ -1,7 +1,7 @@
 # Using machine learning to predict the risk of sleep disorders based on individuals' lifestyle and health conditions
 
 Group Members: Youxia Zhao, Peter Tran
-
+ 
 Background: In the modern era, increasing pressures have led to a growing prevalence of sleep-related issues such as reduced sleep quality, disruptions in sleep patterns, and diagnosable sleep disorders. These challenges are particularly prevalent among, resulting in a significant impact on their overall quality of life and health. 
 
 Objective: Our project aims to develop a machine learning model that utilizes individual lifestyle information and health condition data to predict the risk of sleep disorders. Our primary objectives encompass: 1) Identify potential risk factors for sleep disorders, enabling individuals to take preventative measures. 2) Provide healthcare professionals with a tool to identify individuals at risk of sleep disorders at an earlier stage.
